@@ -4,7 +4,7 @@ supervisely to bbox convert
 
 supervisely_to_bbox.py переводит в формат:
 
-      | left      | top       | right     | bottom
+coord | left      | top       | right     | bottom
 ------|-----------|-----------|-----------|---------
 класс | мин(х)    | мин(у)    | макс(х)   | макс(у)
 ------|-----------|-----------|-----------|---------
